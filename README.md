@@ -15,4 +15,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# lucas_paul_movie_explorer
+
+# Start the project 
+
+to start the project, you need first to have an api_key from this website : https://www.themoviedb.org/
+
+go in the file /lib/main.dart
+
+line 11 paste your api_key in the field api_key
